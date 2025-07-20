@@ -1,7 +1,7 @@
 
 # SmartPay: AI-Powered Employee Salary Prediction System
 
-![SmartPay Banner](smartpay_banner.png)
+<img src="smartpay_banner.png" alt="SmartPay Banner" width="600">
 
 SmartPay is a Machine Learning-powered application designed to predict monthly employee salaries based on features such as:
 
