@@ -39,7 +39,7 @@ We experimented with the following regression algorithms:
 | SVR                     | 23543.61 | 0.17240  | 31362.77 |
 | Gradient Boosting       | 3655.60  | 0.95915  | 6967.70  |
 
-Full metrics: [`model_performance.txt`](model_performance.txt)
+<img src="Model_Comparisom.png" alt="Model Comparison Graphs" width="400" height="400">
 
 ---
 
@@ -47,7 +47,7 @@ Full metrics: [`model_performance.txt`](model_performance.txt)
 
 | Actual vs Predicted | PDP for Gradient Boosting |
 |---------------------|---------------------------|
-| ![](Linear%20Regression_actual_vs_predicted.png) | ![](gradient_boosting_pdp.png) |
+| <img src="Linear Regression_actual_vs_predicted.png" alt="Regression_actual_vs_predicted_graph" width="400" height="400"> | <img src="gradient_boosting_pdp.png" alt="pdp Graph" width="400" height="400"> |
 
 ---
 
@@ -56,7 +56,9 @@ Full metrics: [`model_performance.txt`](model_performance.txt)
 You can run the Streamlit app locally using:
 
 ```bash
+
 streamlit run streamlit_salary_app.py
+
 ```
 
 ### Features
@@ -76,11 +78,11 @@ SmartPay/
 ├── streamlit_salary_app.py
 ├── model_performance.txt
 ├── best_model.pkl
-├── prediction copy.ipynb
+├── prediction.ipynb
 ├── plots/
 │   ├── gradient_boosting_pdp.png
 │   ├── Linear Regression_actual_vs_predicted.png
-│   └── Linear Regression_residuals.png
+│   └── Model_Comparison.png
 ├── smartpay_banner.png
 └── README.md
 ```
@@ -97,8 +99,7 @@ SmartPay/
 
 ---
 
-## Author
+## Developed By:
 
 **Srishti Bhatnagar**  
-Final Year B.Tech Student, Government Engineering College Raipur  
-Department: Computer Science and Engineering
+
