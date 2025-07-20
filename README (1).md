@@ -38,7 +38,7 @@ We experimented with the following regression algorithms:
 | SVR                     | 23543.61 | 0.17240  | 31362.77 |
 | Gradient Boosting       | 3655.60  | 0.95915  | 6967.70  |
 
-<img src="Model_Comparisom.png" alt="Model Comparison Graphs" width="400" height="400">
+<img src="Model_Comparison.png" alt="Model Comparison Graphs" width="400" height="400">
 
 ---
 
